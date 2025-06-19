@@ -1,4 +1,4 @@
-# Déployer un projet angular sur github
+# Déployer un projet angular sur github /// Deploy angular projet on github
 
 ### 1) Créez une branche ```gh-pages``` /// Create a ```gh-pages``` branch
 
