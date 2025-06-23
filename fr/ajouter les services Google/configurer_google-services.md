@@ -56,6 +56,9 @@ Note : une fois votre projet créé ou sélectionné, vous pourrez voir ```vous 
 - 1) Cliquez sur ```API et Services```
 - 2) Allez dans ```Bibliothèque```
 - 3) Activez les services dont vous avez besoin
+    - Google Calendar API pour le calendrier
+    - Google People API pour récupérer les infos utilisateur
+    - Google Identity Services pour la connexion
 
 ## 4) Créer les identifiants OAuth 2.0 (Google Sign-in)
 

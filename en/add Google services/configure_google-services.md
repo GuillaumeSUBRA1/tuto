@@ -57,6 +57,10 @@ operating system (here android or ios)
 - 1) Clic on ```API and Services```
 - 2) Go to ```Library```
 - 3) Activate the services you need
+    - Google Calendar API for calendar
+    - Google People API to get user infos
+    - Google Identity Services for connexion
+
 
 ## 4) Create OAuth 2.0 ids (Google Sign-in)
 
